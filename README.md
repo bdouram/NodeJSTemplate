@@ -10,7 +10,7 @@ and scalability. It is event-oriented, single-threaded, and fully utilizes JavaS
 
 License
 =================
-This project use GNU 2.0 License.
+This project use GPL 3.0 License.
 You can use this project for start your http app.
 
 Installation (Ubuntu)
